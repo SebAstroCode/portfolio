@@ -1,5 +1,13 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import Header from '//Content/Header/header.js';
+
+const App = () => {
+  <Header />
+};
+export default App;
+
+/*
 
 function App() {
   return (
@@ -23,3 +31,4 @@ function App() {
 }
 
 export default App;
+*/
